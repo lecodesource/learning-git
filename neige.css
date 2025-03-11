@@ -16,7 +16,7 @@ body {
 
 .snowflake {
     position: absolute;
-    background: #fff;
+    background: #f00;
     width: 10px;
     height: 10px;
     border-radius: 50%;
